@@ -1,7 +1,7 @@
 # NetCut - Lua UI Library
 
 <p align="center">
-  <img src="image_2023-10-29_211841355.png" alt="NetCut Logo">
+  <img src="image.png" alt="NetCut Logo">
 </p>
 
 NetCut is a lightweight and versatile Lua UI that is made by me on my own.
